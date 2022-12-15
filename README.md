@@ -13,4 +13,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naima-adardor&" alt="naima-adardor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naima-adardor&theme=radical" alt="naima-adardor" /></p>
+
+
